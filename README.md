@@ -5,7 +5,7 @@
 *   🧠  Currently learning Serverless with AWS and React Native
 *   🤝  I'm open to collaborating on backend and machine learning projects
 
-<a href="https://www.twitch.tv/ricardaun1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/ricardaun1 logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.twitch.tv/ricardaun1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/ricardaun1?style=for-the-badge" /></a>
 
 ### Experiences
 
