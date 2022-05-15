@@ -98,7 +98,7 @@
 <a href="https://www.buymeacoffee.com/ricardosuman"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 <a href="ko-fi.com/ricardosuman"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 <a href="https://patreon.com/ricardosuman"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-<a href="https://ricardaun.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
+<!--<a href="https://ricardaun.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>-->
 
 
 
@@ -128,6 +128,9 @@
 </a>
 <a href="https://www.twitch.tv/ricardaun1">
   <img align="left" alt="Ricardo's Twitch" width="20px" src="https://simpleicons.now.sh/twitch/6366f1" />
+</a>
+<a href="https://ricardaun.itch.io/">
+  <img align="left" alt="Ricardo's Itch.io" width="20px" src="https://simpleicons.vercel.app/itchdotio/6366f1" />
 </a>
 <a href="https://www.stackoverflow.com/users/19088644/ricardo-suman">
   <img align="left" alt="Ricardo's StackOverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/6366f1" />
