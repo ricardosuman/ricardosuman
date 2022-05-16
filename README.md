@@ -92,13 +92,14 @@
 
 <a href="http://www.github.com/ricardaun"><img src="https://github-readme-stats.vercel.app/api?username=ricardaun&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="ricardaun's GitHub stats" /></a><a href="http://www.github.com/ricardaun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardaun&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Support Me
+<!--### Support Me-->
 <!--<a href="https://www.buymeacoffee.com/ricardosuman"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>-->
-<a href="#"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" /></a>
-<a href="https://www.buymeacoffee.com/ricardosuman"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-<a href="ko-fi.com/ricardosuman"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-<a href="https://patreon.com/ricardosuman"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+<!--<a href="#"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" /></a>-->
+<!--<a href="https://www.buymeacoffee.com/ricardosuman"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>-->
+<!--<a href="ko-fi.com/ricardosuman"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>-->
+<!--<a href="https://patreon.com/ricardosuman"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>-->
 <!--<a href="https://ricardaun.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>-->
+
 
 
 
