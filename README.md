@@ -114,7 +114,7 @@
 <a href="https://behance.net/ricardosuman">
   <img align="left" alt="Ricardo's Behance" width="20px" src="https://simpleicons.now.sh/behance/6366f1" />
 </a>
-<a href="https://discord.com/users/ricardaun#2111">
+<a href="https://discord.com/users/soloplayer#2111">
   <img align="left" alt="Ricardo's Discord" width="20px" src="https://simpleicons.now.sh/discord/6366f1" />
 </a>
 <a href="https://www.dev.to/ricardosuman">
