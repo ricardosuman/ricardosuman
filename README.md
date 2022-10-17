@@ -90,7 +90,7 @@
                     
 ### github stats
 
-<a href="http://www.github.com/soloplxyer"><img width="420" src="https://github-readme-stats.vercel.app/api?username=soloplxyer&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="soloplxyer's GitHub stats" /></a><a href="http://www.github.com/soloplxyer"><img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=soloplxyer&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/soloplxyer"><img width="400" src="https://github-readme-stats.vercel.app/api?username=soloplxyer&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="soloplxyer's GitHub stats" /></a><a href="http://www.github.com/soloplxyer"><img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=soloplxyer&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!--### Support Me-->
 <!--<a href="https://www.buymeacoffee.com/ricardosuman"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>-->
