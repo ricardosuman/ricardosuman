@@ -1,16 +1,16 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+# hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-### Fullstack Software Engineer
+### i'm a software engineer
 
-*   🧠  Currently learning Serverless with AWS and React Native
-*   🤝  I'm open to collaborating on backend and machine learning projects
+*   🧠  currently learning Serverless with AWS and React Native
+*   🤝  i'm open to collaborating on backend and machine learning projects
 
 <a href="https://www.twitch.tv/ricardaun1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/ricardaun1?style=for-the-badge" /></a>
 
-### Experiences
+<!-- ### experiences -->
 
 <details> 
-  <summary>💻 Technologies I worked with</summary>
+  <summary>💻 technologies i worked with</summary>
   <p>
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" /> 
@@ -88,9 +88,9 @@
   </p>
 </details>
                     
-### GitHub Stats
+### github stats
 
-<a href="http://www.github.com/soloplxyer"><img src="https://github-readme-stats.vercel.app/api?username=soloplxyer&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="soloplxyer's GitHub stats" /></a><a href="http://www.github.com/soloplxyer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=soloplxyer&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/soloplxyer"><img width="420" src="https://github-readme-stats.vercel.app/api?username=soloplxyer&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="soloplxyer's GitHub stats" /></a><a href="http://www.github.com/soloplxyer"><img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=soloplxyer&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!--### Support Me-->
 <!--<a href="https://www.buymeacoffee.com/ricardosuman"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>-->
