@@ -121,7 +121,7 @@
 <a href="https://www.dev.to/ricardosuman">
   <img align="left" alt="Ricardo's Dev.To" width="20px" src="https://simpleicons.now.sh/devdotto/6366f1" />
 </a>
-<a href="http://www.medium.com/ricardosuman">
+<a href="http://www.medium.com/soloplayer">
   <img align="left" alt="Ricardo's Medium" width="20px" src="https://simpleicons.now.sh/medium/6366f1" />
 </a>
 <a href="https://www.twitch.tv/ricardaun1">
