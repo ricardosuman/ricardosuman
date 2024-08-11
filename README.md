@@ -103,10 +103,10 @@
 
 ----
 
-<a href="https://twitter.com/soloplayerexe">
+<!--<a href="https://twitter.com/soloplayerexe">
   <img align="left" alt="Ricardo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/6366f1" />
 </a>
-<!--<a href="https://www.instagram.com/">
+<a href="https://www.instagram.com/">
   <img align="left" alt="Ricardo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/6366f1" />
 </a>-->
 <a href="https://linkedin.com/in/ricardosuman">
