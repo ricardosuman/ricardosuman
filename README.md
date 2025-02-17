@@ -13,6 +13,7 @@ defmodule Main do
       languages_spoken: [
         {"Portuguese", "🇧🇷"},
         {"English", "🇺🇸"},
+        {"Korean", "🇰🇷"},
       ],
       expertise: ["Fullstack", "AI", "Game Dev"],
       tools: [
