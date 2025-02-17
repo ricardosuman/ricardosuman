@@ -13,15 +13,12 @@ defmodule Main do
       languages_spoken: [
         {"Portuguese", "🇧🇷"},
         {"English", "🇺🇸"},
-        {"Korean", "🇰🇷"},
-        {"Japanese", "🇯🇵"}
       ],
-      expertise: ["AI", "Game Dev", "Fullstack", "Cybersecurity"],
+      expertise: ["Fullstack", "AI", "Game Dev"],
       tools: [
-        {"AI", ["PyTorch", "TensorFlow", "LangChain", "CrewAI"]},
-        {"Game Dev", ["Unreal Engine 5", "Bevy", "Godot", "Unity"]},
         {"Fullstack", ["Next.js", "Remix", "NestJS", "Express.js"]},
-        {"Cybersecurity", ["Burp Suite", "Metasploit", "Nmap", "Wireshark"]}
+        {"AI", ["TensorFlow", "LangChain", "CrewAI"]},
+        {"Game Dev", ["Unreal Engine 5", "Bevy"]},
       ],
       favorite_languages: ["Rust 🦀", "Elixir ⚗️", "Swift 🍏", "C++ 💾"]
     }
