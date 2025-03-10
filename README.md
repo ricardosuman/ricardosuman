@@ -14,8 +14,7 @@ defmodule Main do
       nationality: "🇧🇷 🇮🇹",
       languages_spoken: [
         {"Portuguese", "🇧🇷"},
-        {"English", "🇺🇸"},
-        {"Korean", "🇰🇷"},
+        {"English", "🇺🇸"}
       ],
       expertise: ["Fullstack", "AI", "Game Dev"],
       tools: [
