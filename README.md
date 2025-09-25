@@ -33,5 +33,7 @@ Main.run()
 ```
 
 <!--<img src="https://github.com/user-attachments/assets/1537554e-6389-466a-8d4e-12f90d619697">-->
-<img src="https://github.com/user-attachments/assets/d60ea55b-9d57-4832-8e2e-c352c4e26da0">
+<!-- <img src="https://github.com/user-attachments/assets/d60ea55b-9d57-4832-8e2e-c352c4e26da0"> -->
+<img width="1200" height="400" alt="Mask group" src="https://github.com/user-attachments/assets/efd23216-0f29-44ad-a2f1-536ceef28932" />
+
 <!--<img src="https://github.com/user-attachments/assets/f4cabbb3-2c1c-4fca-becd-c2ef3538ba97">-->
