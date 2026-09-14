@@ -41,5 +41,6 @@ Main.run()
 <!-- new -->
 <!-- <img width="1200" height="400" alt="Mask group" src="https://github.com/user-attachments/assets/efd23216-0f29-44ad-a2f1-536ceef28932" /> -->
 
-<img width="1200" height="400" src="https://github.com/user-attachments/assets/84698a32-0c87-48ee-9942-47f6bf8f5f25" />
+<!-- <img width="1200" height="400" src="https://github.com/user-attachments/assets/84698a32-0c87-48ee-9942-47f6bf8f5f25" /> -->
 
+<img width="1200" height="400" src="https://github.com/user-attachments/assets/13233a74-cfe9-4fbb-b6c0-96fccf7e91c9" />
