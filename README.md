@@ -2,7 +2,9 @@
 # about_me.exs
 
 defmodule Engineer do
-  defstruct name: "", age: 0, role: "", nationality: "", languages_spoken: [], expertise: [], tools: [], favorite_languages: []
+  defstruct name: "", age: 0, role: "", nationality: "", languages_spoken: [],
+            expertise: [], stack: [], ai: [], infra: [], workstations: [],
+            favorite_languages: []
 end
 
 defmodule Main do
@@ -10,19 +12,42 @@ defmodule Main do
     user = %Engineer{
       name: "Ricardo Suman",
       age: 30,
-      role: "Software Engineer",
+      role: "Senior Software Engineer",
       nationality: "🇧🇷 🇮🇹",
       languages_spoken: [
         {"Portuguese", "🇧🇷"},
         {"English", "🇺🇸"}
       ],
-      expertise: ["Fullstack", "AI", "Game Dev"],
-      tools: [
-        {"Fullstack", ["Next.js", "Remix", "NestJS", "Express.js"]},
-        {"AI", ["TensorFlow", "LangChain", "CrewAI"]},
-        {"Game Dev", ["Unreal Engine 5", "Bevy"]},
+      expertise: [
+        "Fullstack", "Mobile", "AI / Agents", "Systems", "Game Dev"
       ],
-      favorite_languages: ["Rust 🦀", "Elixir ⚗️", "Swift 🍏", "C++ 💾"]
+      stack: [
+        {"Web", ["Next.js", "React", "TypeScript"]},
+        {"Backend", ["Bun",  "Node.js", "NestJS", "ElysiaJS",  "Express.js"]},
+        {"Mobile", ["Swift", "SwiftUI", "React Native", "Expo"]},
+        {"Systems", ["Rust"]},
+        {"Data", ["PostgreSQL", "Supabase", "MongoDB", "Redis"]},
+        {"Game Dev", ["Unreal Engine 5", "Bevy"]}
+      ],
+      ai: [
+        {"Coding Agents", ["Claude Code", "Codex", "Grok"]},
+        {"AI Engineering", ["MCP", "Tool Calling", "Agent Orchestration",
+          "Evals", "RAG", "Vercel AI SDK"
+        ]},
+        {"Local AI", ["Ollama"]}
+      ],
+      infra: ["Docker", "Podman", "Dokploy", "AWS", "Vercel", "Supabase"],
+      workstations: [
+        {"MacBook", "macOS"},
+        {"ThinkPad T14", "Omarchy / Arch Linux"}
+      ],
+      favorite_languages: [
+        "Elixir ⚗️",
+        "Rust 🦀",
+        "C++ 💾"
+        "Swift 🍏",
+        "TypeScript 🔷",
+      ]
     }
 
     IO.inspect(user, pretty: true)
