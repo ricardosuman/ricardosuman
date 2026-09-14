@@ -18,7 +18,7 @@ defmodule Main do
       ],
       expertise: ["Fullstack", "AI", "Game Dev"],
       tools: [
-        {"Fullstack", ["Next.js", "Remix", "NestJS", "Express.js", "React Native", "Swift"]},
+        {"Fullstack", ["Next.js", "Remix", "NestJS", "Express.js"]},
         {"AI", ["TensorFlow", "LangChain", "CrewAI"]},
         {"Game Dev", ["Unreal Engine 5", "Bevy"]},
       ],
