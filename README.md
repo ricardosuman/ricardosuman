@@ -9,7 +9,7 @@ defmodule Main do
   def run do
     user = %Engineer{
       name: "Ricardo Suman",
-      age: 29,
+      age: 30,
       role: "Software Engineer",
       nationality: "🇧🇷 🇮🇹",
       languages_spoken: [
@@ -18,7 +18,7 @@ defmodule Main do
       ],
       expertise: ["Fullstack", "AI", "Game Dev"],
       tools: [
-        {"Fullstack", ["Next.js", "Remix", "NestJS", "Express.js"]},
+        {"Fullstack", ["Next.js", "Remix", "NestJS", "Express.js", "React Native", "Swift"]},
         {"AI", ["TensorFlow", "LangChain", "CrewAI"]},
         {"Game Dev", ["Unreal Engine 5", "Bevy"]},
       ],
